@@ -1,0 +1,45 @@
+GRIB nr 1
+Sekcja 0 OK
+Dlugosc: 4538
+Edycja: 1
+
+Sekcja 1 OK
+Center: 7
+Parametr: 33
+
+Sekcja 2 OK
+Nx: 65535
+Ny: 73
+
+Brak sekcji 3
+Sekcja 4 OK
+Bits/value: 10
+Skala: 0
+Referencja -102
+
+Koniec komunikatu
+
+
+GRIB nr 2
+Sekcja 0 OK
+Dlugosc: 4538
+Edycja: 1
+
+Sekcja 1 OK
+Center: 7
+Parametr: 33
+
+Sekcja 2 OK
+Nx: 65535
+Ny: 73
+
+Brak sekcji 3
+Sekcja 4 OK
+Bits/value: 10
+Skala: 0
+Referencja -126.5
+
+Koniec komunikatu
+
+
+Liczba komunikatow: 2
